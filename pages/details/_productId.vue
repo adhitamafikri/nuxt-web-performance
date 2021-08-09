@@ -20,9 +20,9 @@ export default {
   },
   head() {
     const { name } = this.product
-    const metaDescription = `The Nuxty Store! Get ${name} With the Best Price`
+    const metaDescription = `The Web Performance! Get ${name} With the Best Price`
     return {
-      title: `The Nuxty Store - Get ${name} With the Best Price`,
+      title: `The Web Performance - Get ${name} With the Best Price`,
       meta: [
         {
           hid: 'description',

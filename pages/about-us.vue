@@ -8,9 +8,9 @@
 <script>
 export default {
   head() {
-    const metaDescription = `The Nuxty Store - About Us`
+    const metaDescription = `The Web Performance - About Us`
     return {
-      title: `The Nuxty Store - About Us`,
+      title: `The Web Performance - About Us`,
       meta: [
         {
           hid: 'description',

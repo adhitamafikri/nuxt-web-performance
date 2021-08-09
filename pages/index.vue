@@ -29,11 +29,11 @@ export default {
   head() {
     const SEO_CONTENTS = {
       description:
-        "This is a website where I learn about SEO and how to leverage NuxtJS's SSR to achieve a better SEO",
+        "This is a website where I learn about performance",
     }
 
     return {
-      title: 'The Nuxty Store - Learn Nuxt and Seo',
+      title: 'The Web Performance - Home',
       meta: [
         {
           hid: 'description',

@@ -77,5 +77,8 @@ export default {
         ['@babel/plugin-proposal-private-property-in-object', { loose: true }],
       ],
     },
+
+    // Extract css to separate files instead of inlined-styles
+    extractCSS: true,
   },
 }
